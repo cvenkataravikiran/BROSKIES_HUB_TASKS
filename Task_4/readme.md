@@ -23,7 +23,7 @@ This is a simple REST API built using **Python Flask** that supports CRUD operat
     ```
 2. Install the requirements using pip 
 
-command:
+    command:
     ```
     pip install -r requirements.txt 
     ```   
