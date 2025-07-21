@@ -26,7 +26,6 @@ This is a simple REST API built using **Python Flask** that supports CRUD operat
 command:
     ```
     pip install -r requirements.txt 
-
     ```   
 3. Run the script:
     ```
