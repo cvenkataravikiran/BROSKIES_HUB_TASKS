@@ -28,7 +28,9 @@ command:
     pip install -r requirements.txt 
     ```   
 3. Run the script:
-    ```
-    python app.py
 
     ```
+    python app.py
+    ```
+    API will be live at: ``` http://127.0.0.1:5000 ```
+
